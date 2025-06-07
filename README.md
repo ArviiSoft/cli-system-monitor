@@ -3,15 +3,9 @@
 A terminal-based system monitoring tool built with Go, featuring a sleek UI and real-time updates for CPU, RAM, and disk usage.
 
 ```
-╔═══════════════════════════════════════════════╗
-║           CLI SYSTEM MONITOR                  ║
-╠═══════════════════════════════════════════════╣
-║ CPU:    15.33%
-║ RAM:    63.21% (5.06 GB / 8.00 GB)
-║ DISK:   45.02% (90.01 GB / 200.00 GB)
-║ UPTIME: 04h 32m 50s
-╚═══════════════════════════════════════════════╝
+https://github.com/user-attachments/assets/4e1579d1-8e95-4a5a-b617-db1e15914e3a
 ```
+
 
 ## 🧠 Features
 
