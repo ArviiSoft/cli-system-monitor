@@ -34,4 +34,4 @@ go run main.go
 
 ---
 
-Made with ❤️ by [ArviS]
+Made with ❤️ by ArviS
