@@ -1,0 +1,7 @@
+{
+  "theme": {
+    "cpu_color": "green",
+    "ram_color": "magenta",
+    "disk_color": "cyan"
+  }
+}
